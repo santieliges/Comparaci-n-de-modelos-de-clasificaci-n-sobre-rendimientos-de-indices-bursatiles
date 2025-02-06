@@ -1,0 +1,2 @@
+# Comparaci-n-de-modelos-de-clasificaci-n-sobre-rendimientos-de-indices-bursatiles
+Se intenta predecir la dirección del mercado (si esta subiendo o bajando utilizando un dataset conformado por los rendimientos porcentuales de un índice bursátil a lo largo de 1250 dias empleando diferentes modelos de clasificación: regresión logística (RL), discriminante lineal (LDA) y cuadrático (QDA), y Bayes Naive (BN)
